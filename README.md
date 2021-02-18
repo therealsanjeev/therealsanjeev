@@ -5,11 +5,8 @@
 - 📱 Mobile App developer.
 - 🔭 I’m currently working on Increase Height Project.
 - 🌱 I’m currently learning Android Architecture.
-- 👨‍💻 Mostly working on ❤️Android ❤️Kotlin 🔥Firebase!
+- 👨‍💻 Mostly working on ❤️Android❤️Java ❤️Kotlin 🔥Firebase!
 - Loves 🎵 .
-
-#### [![Sanjeev's github stats](https://github-readme-stats.vercel.app/api?username=therealsanjeev)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 <!--
