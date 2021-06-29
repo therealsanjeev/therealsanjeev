@@ -4,7 +4,7 @@
 - 👨‍💻 #SelfTaught Developer.
 - 📱 Mobile App developer.
 - 🔭 I’m currently working on Increase Height Project.
-- 🌱 I’m currently learning Android Architecture.
+- 🌱 I’m currently learning Node.JS.
 - 👨‍💻 Mostly working on ❤️Android❤️Java ❤️Kotlin 🔥Firebase!
 - Loves 🎵 .
 
