@@ -1,10 +1,11 @@
 # Hi there👋! I'm Sanjeev 🙋‍♂️
 #### An Android Developer!
+- Software Development Engineer Intern at @Gomechanic
 - 👨‍🎓 22 year old Engineering Undergrad student.
 - 👨‍💻 #SelfTaught Developer.
 - 📱 Mobile App developer.
 - 🔭 I’m currently working on Increase Height Project.
-- 🌱 I’m currently learning Node.JS.
+- 🌱 I’m currently learning Js for Node.JS.
 - 👨‍💻 Mostly working on ❤️Android❤️Java ❤️Kotlin 🔥Firebase!
 - Loves 🎵 .
 
