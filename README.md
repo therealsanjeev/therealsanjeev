@@ -6,7 +6,7 @@
 - 📱 Mobile App developer.
 - 🔭 I’m currently working on Increase Height Project.
 - 🌱 I’m currently learning Js for Node.JS.
-- 👨‍💻 Mostly working on ❤️Android❤️Java ❤️Kotlin 🔥Firebase!
+- 👨‍💻 Mostly working on ❤️Android❤️Java ❤️Kotlin 🔥Firebase! ❤️JavaScript
 - Loves 🎵 .
 
 
