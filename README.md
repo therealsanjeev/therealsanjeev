@@ -1,10 +1,11 @@
 # Hi there👋! I'm Sanjeev 🙋‍♂️
 #### An Android Developer!
-- Software Development Engineer Intern at @Gomechanic
+- Software Development Engineer Intern at @GetSimpl
 - 👨‍🎓 22 year old Engineering Undergrad student at NSUT delhi
 - 📱 Android App developer(Java&Kotlin) & Backend Developer(Node.JS)
-- currently working on Increase Height Project , currently learning Js for Node.JS.
-- 👨‍💻 Mostly working on ❤️Android - Java - Kotlin - Firebase! - JavaScript
+- currently working on Increase Height Project.
+- Currently learning Ruby on Rails!
+- 👨‍💻 Mostly working on ❤️Android - Java - Kotlin - Firebase! - Ruby
 - Love muSic🎵 & coldCoffee🥤
 
 
