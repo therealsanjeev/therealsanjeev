@@ -1,7 +1,7 @@
 # Hi there👋! I'm Sanjeev 🙋‍♂️
 #### An Android Developer!
 - Software Development Engineer Intern at @GetSimpl
-- 👨‍🎓 22 year old Engineering Undergrad student at NSUT delhi
+- 👨‍🎓 23 year old Engineering Undergrad student at NSUT delhi
 - 📱 Android App developer(Java&Kotlin) & Backend Developer(Node.JS)
 - currently working on Increase Height Project.
 - Currently learning Ruby on Rails!
