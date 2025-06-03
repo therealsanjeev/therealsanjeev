@@ -1,5 +1,5 @@
 # Hi there 👋 I'm Sanjeev 🙋‍♂️
-### Co-Founder & Tech Builder @ [ApnaCam](https://apnacam.in)
+### Co-Founder & Tech Builder @ [ApnaCam](https://apnacam.com)
 
 ---
 
@@ -41,7 +41,7 @@
 📫 **Let’s connect!**
 - [LinkedIn](https://www.linkedin.com/in/therealsanjeev/)
 - [GitHub](https://github.com/therealsanjeev)
-- [ApnaCam](https://apnacam.in)
+- [ApnaCam](https://apnacam.com)
 
 <!--
 **therealsanjeev/therealsanjeev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
